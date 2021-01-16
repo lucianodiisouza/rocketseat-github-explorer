@@ -1,6 +1,6 @@
 # GitHub Explorer
 
-GitHub Explorer is an simple SPA that use github's public api to display data about selected repositories.
+GitHub Explorer is an SPA studycase that uses github's public api to display data about selected repositories.
 
 ### Run
 to run it just clone repo, run `yarn` to install dependencies, and run `yarn start` to run application at your localhost.
